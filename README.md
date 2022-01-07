@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trj3t
-- 👀 I’m interested in vue
-- 🌱 I’m currently learning nuxt
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning python
 
 <!---
 Trj3t/Trj3t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
