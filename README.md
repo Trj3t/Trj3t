@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trj3t
-- 👀 I’m interested in vuejs
+- 👀 I’m interested in Business Analyst
 
 <!---
 Trj3t/Trj3t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
